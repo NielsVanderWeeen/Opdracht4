@@ -1,3 +1,0 @@
-/home/pi/Desktop/Opdracht4/Client/build/CMakeFiles/rebuild_cache.dir
-/home/pi/Desktop/Opdracht4/Client/build/CMakeFiles/Client.dir
-/home/pi/Desktop/Opdracht4/Client/build/CMakeFiles/edit_cache.dir
