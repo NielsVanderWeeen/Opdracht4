@@ -1,0 +1,8 @@
+/home/pi/Desktop/Embed2-opdracht4-main/deel2/build/CMakeFiles/install/local.dir
+/home/pi/Desktop/Embed2-opdracht4-main/deel2/build/CMakeFiles/install/strip.dir
+/home/pi/Desktop/Embed2-opdracht4-main/deel2/build/CMakeFiles/a.out.dir
+/home/pi/Desktop/Embed2-opdracht4-main/deel2/build/CMakeFiles/install.dir
+/home/pi/Desktop/Embed2-opdracht4-main/deel2/build/CMakeFiles/PJ_RPI.dir
+/home/pi/Desktop/Embed2-opdracht4-main/deel2/build/CMakeFiles/edit_cache.dir
+/home/pi/Desktop/Embed2-opdracht4-main/deel2/build/CMakeFiles/rebuild_cache.dir
+/home/pi/Desktop/Embed2-opdracht4-main/deel2/build/CMakeFiles/list_install_components.dir
